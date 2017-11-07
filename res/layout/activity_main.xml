@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/string_welcome"
+        android:textSize="@dimen/small"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:id="@+id/btn_start"
+        android:onClick="startQuiz"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/string_welcomeClick"
+        android:textColor="@color/white"
+        android:textSize="@dimen/smaller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/small"
+        android:layout_below="@+id/welcome"
+         />
+</RelativeLayout>

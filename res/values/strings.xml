@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">PlamenQuiz</string>
+    <string name="aprendido">Has Aprendido ;P</string>
+    <string name="aprobado">Has Aprobado!</string>
+    <string name="btn_anterior">Anterior</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_empezar">Empezar</string>
+    <string name="btn_false">Falso</string>
+    <string name="btn_true">Verdadero</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="restart">Reiniciar</string>
+    <string name="string_correcto">Correcto!</string>
+    <string name="string_incorrecto">Cada dia se aprende algo nuevo! :P</string>
+    <string name="string_introduce">Introduce la respuesta</string>
+    <string name="string_num">Introduce un numero</string>
+    <string name="string_welcome">Bienvenido al Quiz de Plamen :)</string>
+    <string name="string_welcomeClick">Presiona la pantalla para comenzar!</string>
+    <string name="te_quedan">Te quedan preguntas por responder!</string>
+    <string name="title_activity_splash">Plamen Quiz</string>
+    <string name="title_activity_main">Plamen Quiz</string>
+    <string-array name="preguntas">
+        <item>Cuantos años tienes?</item>
+        <item>Que titulo tiene Macìa?</item>
+        <item>Los gatitos muerden?</item>
+        <item>Cuantas champions league tiene el Real Madrid?</item>
+        <item>A Macìa le gustan las series de TV?</item>
+        <item>La tierra es cuadrada?</item>
+        <item>Cual es la capital de Bulgaria?</item>
+        <item>Que dorsal llevaba Dimitar Berbatov en el Manchester United?</item>
+        <item>Cual es el alfabeto oficial en Bulgaria?</item>
+        <item>Existe una raza de perros bulgara?</item>
+        <item>Pensando en verde, de que cerveza hablamos?</item>
+    </string-array>
+    <string-array name="respuestas">
+        <item>25</item>
+        <item>Doctor</item>
+        <item>true</item>
+        <item>12</item>
+        <item>true</item>
+        <item>false</item>
+        <item>Sofia</item>
+        <item>9</item>
+        <item>cirilico</item>
+        <item>true</item>
+        <item>heineken</item>
+    </string-array>
+</resources>
